@@ -77,7 +77,7 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Bladeh4x/BLADE-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=8801853262586&env[MONGODB_URI]&&env[OWNER_NAME]=SLASHER&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/1da92586c209009d5131d.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=BLADE-MD;BY-ALEXDAVID&name=BLADE-MD&env[KOYEB_NAME]=BLADE-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
+    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Bladeh4x/BLADE-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=212778512227&env[MONGODB_URI]&&env[OWNER_NAME]=Aymane Touzani&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/1da92586c209009d5131d.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=BLADE-MD;BY-ALEXDAVID&name=BLADE-MD&env[KOYEB_NAME]=BLADE-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    
@@ -99,7 +99,7 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Bladeh4x/BLADE-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/hghardy2/BLADE-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
