@@ -13,10 +13,10 @@ global.gurl = 'https://instagram.com/alex_david/' // add your username
 global.sudo = process.env.SUDO || "2348059540212"
 global.devs = '2348059540212'
 global.website = 'https://github.com/hghardy2/BLADE-MD' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/3f3ae4aace2d012c11509.jpg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/71637b5921c9834520ed1.jpg'
 module.exports = {
   sessionName: process.env.SESSION_ID || "",      //Put Your Session Id Here
-  author:  process.env.PACK_AUTHER ||  'BLADE BOT',
+  author:  process.env.PACK_AUTHER ||  'HARDY BOT',
   packname:  process.env.PACK_NAME || 'MADE BY AYMANE TOUZANI',
   
   botname:   process.env.BOT_NAME === undefined ? "HARDY-MD" : process.env.BOT_NAME,
