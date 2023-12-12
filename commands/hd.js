@@ -14,9 +14,9 @@ const handler = async (m, {conn, usedPrefix, command}) => {
   throw "*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚅𝚄𝙴𝙻𝚅𝙴 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*";
  }
 };
-handler.help = ["remini", "hd", "enhance"];
+handler.help = ["remini", "4k", "enhance"];
 handler.tags = ["ai", "tools"];
-handler.command = ["remini", "hd", "enhance"];
+handler.command = ["remini", "4k", "enhance"];
 export default handler;
 
 async function remini(imageData, operation) {
